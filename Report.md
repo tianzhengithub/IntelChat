@@ -46,3 +46,5 @@ To ensure that users' privacy is protected, I may need to implement data encrypt
 To ensure that the bot's speech does not violate legal or ethical guidelines, I may need to implement content censorship features.
 To ensure that the bot's functionality complies with local regulatory requirements, I may need to conduct periodic testing.
 
+add test txt
+
